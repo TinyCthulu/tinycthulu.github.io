@@ -47,7 +47,9 @@ Now, I hear you saying, "Sounds too good to be true. What's the catch?"
 
 The catch here is an inevitable tradeoff. If it wasn't already obvious, in order to strengthen player agency, we have to weaken the narrative structure. I know a procedurally generated narrative doesn't *sound* like it weakens our second promise, but the very nature of procedurally generated content dictates that to increase the *quantity* of output, we must also reduce the *quality* of output (and visa versa). Fortunately for us, this means the *binary* question of weakening the narrative, instead becomes a question of *degree*.
 
-# **To Be Continued...**
+If we are okay with this compromise, we can start asking more specific questions about *how* to procedurally generate a mystery; specifically while maximizing player agency, and maintaining some narrative direction. 
+
+# [**To Be Continued...**]({{site.baseurl}})
 
 ## **Links**
 Alex Jaffe's GDC talk on [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ).  
