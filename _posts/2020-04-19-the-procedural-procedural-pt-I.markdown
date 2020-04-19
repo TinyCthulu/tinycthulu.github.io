@@ -26,16 +26,16 @@ In this post, we will explore the *cursed* nature of the procedurally generated 
 
 ## **Exploration**
 
- There are *already* hundreds of procedural detective games. Some are good and some are bad, but most share a problem that is, more or less, unique to the detective game genre. In order to break down a "Procedural Procedural", we will have to address not only the broader features of the *mystery genre*, but also specific *detective game* related problems. The first of which being primarily narrative driven experiences, particularly detective games, tend to suffer from their own "game-ness".
+Before I continue I would like to borrow a couple of definitions from Alex Jaffe's GDC talk on [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ).
+
+1. **Player Promises:** *A game's essential experiences. Why the player came to play.*  
+2. **Cursed Problem:** *An unsolvable design problem, rooted in a conflict between core player promises.*
+
+ There are *already* hundreds of procedural detective games. Some are good and some are bad, but most share a problem that is, more or less, unique to the detective game genre. In order to break down a "Procedural Procedural", we will have to address not only the broader features of the *mystery genre*, but also specific *detective game* related problems. The first of which being, primarily narrative driven experiences, particularly detective games, tend to suffer from their own "game-ness".
 
 It's nobody's fault that games want to be games, but there is something to say about the inverse relationship between mechanics and narrative. Player agency is all about the ability to make meaningful choices. Unfortunately a strong reliance on narrative structure diminishes the opportunity for meaningful choices to exist.
 
 Therein lies the rub.
-
-Earlier I mentioned "the cursed nature of the procedurally generated detective game". Before I continue I would like to borrow a couple of definitions from Alex Jaffe's GDC talk on [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ).
-
-1. **Player Promises:** *A game's essential experiences. Why the player came to play.*  
-2. **Cursed Problem:** *An unsolvable design problem, rooted in a conflict between core player promises.*
 
 At this point, you may be starting to put together why designing *any* detective game is kind of a cursed problem. The core promise of "Become a detective and make meaningful choices in the investigation" is in direct conflict with promise of "Follow a carefully crafted narrative where you are kept guessing until the very end".
 
@@ -45,7 +45,7 @@ On the surface, a procedurally generated narrative solves so many problems. For 
 
 Now, I hear you saying, "Sounds too good to be true. What's the catch?"
 
-
+The catch here is an inevitable tradeoff. If it wasn't already obvious, in order to strengthen player agency, we have to weaken the narrative structure. I know a procedurally generated narrative doesn't *sound* like it weakens our second promise, but the very nature of procedurally generated content dictates that to increase the *quantity* of output, we must also reduce the *quality* of output (and visa versa). Fortunately for us, this means the *binary* question of weakening the narrative, instead becomes a question of *degree*.
 
 # **To Be Continued...**
 
