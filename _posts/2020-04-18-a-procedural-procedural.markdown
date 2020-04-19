@@ -4,7 +4,7 @@ title:  A Procedural Procedural
 categories: blog
 ---
 
-## A guide to the *cursed* nature of the procedural detective game.
+## An exploration of the *cursed* nature of the procedural detective game.
 
 # **Introduction**
 
