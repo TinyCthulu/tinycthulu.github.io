@@ -20,7 +20,7 @@ But what if there was some way to to keep the *mystery* in the mystery?
 
 Enter the *Procedural Procedural*. Video games and other interactive media provide us with the unique opportunity to augment the traditional mystery formula. More specifically, they offer the ability for the audience to *become* the detective and interact directly with the investigation. What's more fascinating is that, in theory, it is possible to take the "traditional mystery formula" and use it to procedurally generate a mystery in *real time*.
 
-There is a phrase, "What is easy to say, is hard to do." I can't think of a better candidate than "procedurally generate a mystery in real time." As easy as that is to say, it does prove to be a rather difficult premise to tackle.
+There is a phrase, "What is easy to say, is hard to do." I can't think of a better candidate than, "procedurally generate a mystery in real time." As easy as that is to say, it does prove to be a rather difficult premise to tackle.
 
 In this post, we will explore the *[cursed](https://youtu.be/8uE6-vIi1rQ?t=273)* nature of the procedurally generated detective game. We will deconstruct some of the more interesting challenges along the way, and 
 by the end, we will come out with a deeper insight into the problem as a whole.
