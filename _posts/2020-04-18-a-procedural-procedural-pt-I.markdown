@@ -31,8 +31,8 @@ In this post, we will explore the *[cursed](https://youtu.be/8uE6-vIi1rQ?t=273)*
 
  There are *already* hundreds of procedural detective games. Some are good and some are bad, but most share a problem that is, more or less, unique to the detective game genre. In order to break down a 'Procedural Procedural', we will have to address not only the broader features of the *mystery genre*, but also the more specific *detective game* related problems. The first of which being that, primarily narrative driven experiences, particularly detective games, tend to suffer from their own *"game-ness"*.
 
-It's nobody's fault that video games want to be games. It does mean, however, that there is something about games that can detract from the narrative experience as a whole. I would argue that most detective games fail as mysteries due to their greater focus on mechanics over narrative. At the same time, I would *also* argue that most good mysteries fail as games because their strong reliance on narrative diminishes the opportunity to make meaningful choices.
+It's nobody's fault that games want to be games, but there is something to say about the inverse relationship between mechanics and narrative. Player agency is all about the opportunity to make meaningful choices, and unfortunately a strong reliance on narrative structure diminishes the opportunity for meaningful choices.
 
-And therein lies the rub.
+Therein lies the rub.
 
 # **To Be Continued...**
