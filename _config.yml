@@ -22,10 +22,11 @@ title: tinycthulu
 email: smcgee@tinycthulu.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place for all the thoughts in my head.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: "http://tinycthulu.com"
 twitter_username: _tinycthulu
 github_username:  shawn-mcgee
+paginator: true
 
 # Build settings
 theme: minima

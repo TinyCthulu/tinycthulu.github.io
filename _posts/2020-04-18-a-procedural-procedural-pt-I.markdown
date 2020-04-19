@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  A Procedural Procedural
+title:  A Procedural Procedural Pt. I
 categories: blog
 ---
 
-## An exploration of the *cursed* nature of the procedural detective game.
+## An exploration into the *cursed* nature of the procedural detective game.
 
-# **Introduction**
+> In this blog, we will explore the *[cursed](https://youtu.be/8uE6-vIi1rQ?t=273)* nature of the procedurally generated detective game. We will deconstruct some of the more interesting challenges along the way, and hopefully, by the end, we will come out with a deeper insight into the problem as a whole.
+
+## **Introduction**
 
 I have always loved procedural police dramas on TV, particularly those involving a clever detective. A well done procedural has a narrative that is bound to draw you in with witty humor, an intriguing mystery, and a juicy twist. My only real problem with the format is actually a problem with the *mystery* genre as a whole.
 
@@ -18,9 +20,17 @@ But what if there was some way to to keep the *mystery* in the mystery?
 
 Enter the *Procedural Procedural*. Video games and other interactive media provide us with the unique opportunity to augment the traditional mystery formula. More specifically, they offer the ability for the audience to *become* the detective and interact directly with investigation. What's more is that, in theory, it is possible to take the *"traditional mystery formula"* and use it to procedurally generate a mystery in *real time*. As easy as that is to say, it does prove to be a rather difficult premise to tackle.
 
-In this blog, we will explore the *[cursed](https://www.youtube.com/watch?v=8uE6-vIi1rQ)* nature of the procedurally generated detective game. We will deconstruct some of the more interesting challenges along the way, and hopefully, by the end, we will come out with a deeper insight into the problem as a whole.
+In this blog, we will explore the *[cursed](https://youtu.be/8uE6-vIi1rQ?t=273)* nature of the procedurally generated detective game. We will deconstruct some of the more interesting challenges along the way, and hopefully, by the end, we will come out with a deeper insight into the problem as a whole.
 
-# **Exploration**
+## **Exploration**
 
-Now, there are already hundreds if not thousands of procedural detective games. Some are good and some are bad, but most share a problem that is, more or less, unique to the detective game genre. Along with the broader issues present in all mysteries, detective games tend to suffer from their own *game-ness*. It's nobody's fault that video games want to be games. It does mean, however, that there is something about games that can detract from the narrative experience as a whole. I would argue that most detective games fail as mysteries due to their greater focus on mechanics instead of narrative.
+Now, there are already hundreds of procedural detective games. Some are good and some are bad, but most share a problem that is, more or less, unique to the detective game genre. Along with the broader issues present in all mysteries, detective games tend to suffer from their own *game-ness*.
+
+It's nobody's fault that video games want to be games. It does mean, however, that there is something about games that can detract from the narrative experience as a whole. I would argue that most detective games fail as mysteries due to their greater focus on mechanics over narrative. At the same time, I would *also* argue that most good mysteries fail as games because their strong reliance on narrative diminishes the opportunity to make meaningful choices.
+
+And therein lies the rub.
+
+I feel obligated to say that this focus on mechanics is not a problem in *all* games, but it is specifically present in many story driven games. The complex interplay between gameplay and narrative is unfortunately a topic too big to cover in this blog, but perhaps in [another post]({{site.baseurl}}).
+
+
 
