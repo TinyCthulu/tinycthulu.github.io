@@ -50,4 +50,4 @@ The catch here is an inevitable tradeoff. If it wasn't already obvious, in order
 If we are okay with this compromise, we can start asking more specific questions about *how* to procedurally generate a mystery; specifically while maximizing player agency, and maintaining some narrative direction.
 
 ## **Links**
-Alex Jaffe's GDC talk on [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ).  
+Alex Jaffe's GDC talk on [Cursed Problems in Game Design](https://www.youtube.com/watch?v=8uE6-vIi1rQ). 
